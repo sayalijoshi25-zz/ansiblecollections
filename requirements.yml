@@ -1,4 +1,4 @@
 ---
-collections:
-  - name: infra_monkey.ansible_general
+role:
+  - name: demo_role
     source: https://galaxy.ansible.com/

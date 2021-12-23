@@ -1,0 +1,4 @@
+---
+collections:
+  - name: infra_monkey.ansible_general
+    source: https://galaxy.ansible.com/
